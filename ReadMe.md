@@ -18,7 +18,7 @@ Following excellent tutorial [ASM_Tutor](https://asmtutor.com/).
       +--- ReadMe.md
 ```
 
-## 2. Step to Compile & Run
+## 3. Step to Compile & Run
 Here, we're compiling (or assembling) `example.asm` file.
 ```bash
 $ nasm -f elf example.asm
